@@ -1,0 +1,18 @@
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+#text1
+{
+    color:            #ffffff;
+    background-color: #3fafee;
+}
+.demo{
+    padding: 0 10px;
+}
+.background-demo {
+  background-image: url("../images/f1.png");
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 400px;
+}
